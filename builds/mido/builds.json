@@ -2,7 +2,7 @@
     "response": [
         {
             "datetime": "1624599114",
-            "filename": "",
+            "filename": "mido-incremental_ota_update-signed",
             "id": "6c086e2ef3451ee50632e24466dc3a9f",
             "romtype": "OFFICIAL",
             "size": "18189719",
