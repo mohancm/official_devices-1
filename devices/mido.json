@@ -1,0 +1,18 @@
+{
+	"codename": "mido",
+	"deviceName": "Redmi Note 4",
+	"brandName": "Xiaomi",
+	"otaEnabled": true,
+	"latestVersion": "v5.1.3",
+	"discontinued": false,
+	"deviceChangelog": null,
+	"releases": null,
+	"maintainerInfo": {
+		"name": "Mohan C M",
+		"profileURL": "https://github.com/mohancm"
+	},
+	"links": {
+		"xda": "https://xda-developers.com/",
+		"telegram": "https://telegram.com/"
+	}
+}
