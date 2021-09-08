@@ -1,0 +1,40 @@
+{
+  "codename": "jd2019",
+  "deviceName": "Z5s",
+  "brandName": "Lenovo",
+  "latestVersion": "v5.1.3",
+  "discontinued": false,
+  "deviceChangelog": null,
+  "releases": [
+    {
+      "type": "vanilla",
+      "generatedAt": 1629699032,
+      "fileName": "dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
+      "url": "https://downloads.droidontime.com/dot11/jd2019/vanilla/dotOS-R-v5.1.3-jd2019-OFFICIAL-20210823-0529.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "2ee9784b12b404e4b7fe83814a34e8a0",
+      "size": 966459585,
+      "version": "v5.1.3"
+    },
+    {
+      "type": "gapps",
+      "generatedAt": 1629700628,
+      "fileName": "dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
+      "url": "https://downloads.droidontime.com/dot11/jd2019/gapps/dotOS-R-v5.1.3-jd2019-GAPPS-20210823-0630.zip",
+      "requireCleanFlash": false,
+      "images": null,
+      "hash": "6ffd4d1479c347770e5066dafce1abca",
+      "size": 1409941700,
+      "version": "v5.1.3"
+    }
+  ],
+  "links": {
+    "xda": "https://forum.xda-developers.com/t/rom-11-dotos-r-v5-0-1-official-for-lenovo-z5s-jd2019-13-04-2021.4230967/",
+    "telegram": null
+  },
+  "maintainerInfo": {
+    "name": "Husker",
+    "profileURL": "https://github.com/HsyHusker"
+  }
+}
