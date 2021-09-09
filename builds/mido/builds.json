@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1624599114",
-            "filename": "mido-incremental_ota_update-signed",
-            "id": "6c086e2ef3451ee50632e24466dc3a9f",
+            "datetime": "1631219122",
+            "filename": "dotOS-R-v5.1.3-mido-OFFICIAL-20210909-2025",
+            "id": "a08c1ee58038adc94470e8621d7459f1",
             "romtype": "OFFICIAL",
-            "size": "18189719",
-            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/",
-            "version": "v5.1.1",
+            "size": "680075377",
+            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.1.3-mido-OFFICIAL-20210909-2025",
+            "version": "v5.1.3",
             "changelog": [
                 {
-                    "miscTitle": "New features",
-                    "miscSummary": "\u2022 Screen-off animations\n\u2022 Fixed lockscreen visualizer\n\u2022 Improved Wallpaper Section inside Customizations.",
-                    "settingsTitle": "Small layout fixes",
-                    "settingsSummary": "\u2022 Now Display size and Font size sections can be scrolled without issue.",
-                    "securityTitle": "June Buletin",
-                    "securitySummary": "\u2022 New June Security Patch merged",
-                    "systemTitle": "MonetWannabe fixes",
-                    "systemSummary": "\u2022 Fixes for 3rd party apps (including Solid Explorer) "
+                    "miscTitle": "",
+                    "miscSummary": "\u2022 Updated APN Settings",
+                    "settingsTitle": "OTA Fixes",
+                    "settingsSummary": "\u2022 Fixed a random incompatibility while trying to install a new update via SystemUpdates.",
+                    "securityTitle": "August Bulletin",
+                    "securitySummary": "\u2022 August Security Patch merged",
+                    "systemTitle": "UX Fixes",
+                    "systemSummary": "\u2022 Fixed an issue with SystemUI when the phone is connected to a vpn or the internet is monitorized and Media is playing while in landscape mode."
                 }
             ]
         }
