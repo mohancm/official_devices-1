@@ -2,6 +2,7 @@
   "codename": "surya",
   "deviceName": "POCO X3 NFC",
   "brandName": "POCO",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

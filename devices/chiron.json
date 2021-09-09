@@ -2,6 +2,7 @@
 	"codename": "chiron",
 	"deviceName": "Mi Mix 2",
 	"brandName": "Xiaomi",
+	"otaEnabled": true,
 	"latestVersion": "v5.0.1",
 	"discontinued": true,
 	"deviceChangelog": null,

@@ -2,6 +2,7 @@
   "codename": "X00TD",
   "deviceName": "Zenfone Max Pro M1",
   "brandName": "Asus",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

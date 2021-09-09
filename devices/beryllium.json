@@ -2,6 +2,7 @@
   "codename": "beryllium",
   "deviceName": "Poco F1",
   "brandName": "POCO",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

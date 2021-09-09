@@ -2,6 +2,7 @@
   "codename": "onclite",
   "deviceName": "Redmi 7",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": null,
   "discontinued": false,
   "deviceChangelog": null,

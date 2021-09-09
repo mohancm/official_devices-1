@@ -2,6 +2,7 @@
   "codename": "payton",
   "deviceName": "Motorola moto X4",
   "brandName": "Motorola",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

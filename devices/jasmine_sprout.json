@@ -2,6 +2,7 @@
   "codename": "jasmine_sprout",
   "deviceName": "Mi A2",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

@@ -2,6 +2,7 @@
   "codename": "sargo",
   "deviceName": "Pixel 3a",
   "brandName": "Google",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

@@ -2,6 +2,7 @@
   "codename": "jd2019",
   "deviceName": "Z5s",
   "brandName": "Lenovo",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

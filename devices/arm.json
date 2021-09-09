@@ -2,6 +2,7 @@
 	"codename": "arm",
 	"deviceName": "GSI - ARM (A only)",
 	"brandName": "Android",
+	"otaEnabled": false,
 	"latestVersion": "v5.1.3",
 	"discontinued": false,
 	"deviceChangelog": null,

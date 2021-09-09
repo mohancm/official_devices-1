@@ -2,6 +2,7 @@
   "codename": "sanders",
   "deviceName": "Moto G (5S) Plus",
   "brandName": "Motorola",
+  "otaEnabled": true,
   "latestVersion": null,
   "discontinued": false,
   "deviceChangelog": null,

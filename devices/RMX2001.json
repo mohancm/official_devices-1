@@ -2,6 +2,7 @@
 	"codename": "RMX2001",
 	"deviceName": "Realme 6/6i/6s",
 	"brandName": "Realme",
+	"otaEnabled": true,
 	"latestVersion": "v5.0.1",
 	"discontinued": true,
 	"deviceChangelog": null,

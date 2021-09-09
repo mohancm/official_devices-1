@@ -2,6 +2,7 @@
 	"codename": "begonia",
 	"deviceName": "Redmi Note 8 Pro",
 	"brandName": "Xiaomi",
+	"otaEnabled": true,
 	"latestVersion": "v5.1.1",
 	"discontinued": true,
 	"deviceChangelog": null,

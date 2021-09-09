@@ -2,6 +2,7 @@
 	"codename": "tissot",
 	"deviceName": "Mi A1",
 	"brandName": "Xiaomi",
+	"otaEnabled": true,
 	"latestVersion": "v5.1.2",
 	"discontinued": true,
 	"deviceChangelog": null,

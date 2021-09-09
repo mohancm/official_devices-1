@@ -2,6 +2,7 @@
   "codename": "perseus",
   "deviceName": "Mi Mix 3",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": null,
   "discontinued": false,
   "deviceChangelog": null,

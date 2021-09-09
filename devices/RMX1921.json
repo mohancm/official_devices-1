@@ -2,6 +2,7 @@
   "codename": "RMX1921",
   "deviceName": "Realme XT",
   "brandName": "Realme",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

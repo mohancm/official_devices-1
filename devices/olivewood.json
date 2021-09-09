@@ -2,6 +2,7 @@
   "codename": "olivewood",
   "deviceName": "Redmi 8A Dual",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

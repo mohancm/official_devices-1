@@ -2,6 +2,7 @@
 	"codename": "kebab",
 	"deviceName": "OnePlus 8T",
 	"brandName": "Oneplus",
+	"otaEnabled": true,
 	"latestVersion": null,
 	"discontinued": true,
 	"deviceChangelog": null,

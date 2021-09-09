@@ -2,6 +2,7 @@
   "codename": "gauguin",
   "deviceName": "Redmi Note9 Pro 5G/Mi10i/Mi10T Lite",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

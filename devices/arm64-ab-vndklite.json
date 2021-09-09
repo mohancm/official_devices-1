@@ -2,6 +2,7 @@
 	"codename": "arm64-ab-vndklite",
 	"deviceName": "GSI - ARM64 (A/B vndklite)",
 	"brandName": "Android",
+	"otaEnabled": false,
 	"latestVersion": "v5.1.3",
 	"discontinued": false,
 	"deviceChangelog": null,

@@ -2,6 +2,7 @@
 	"codename": "RMX1851",
 	"deviceName": "Realme 3 Pro",
 	"brandName": "Realme",
+	"otaEnabled": true,
 	"latestVersion": "v5.0.1",
 	"discontinued": true,
 	"deviceChangelog": null,

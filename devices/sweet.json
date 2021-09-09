@@ -2,6 +2,7 @@
   "codename": "sweet",
   "deviceName": "Redmi Note 10 Pro/Pro Max",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

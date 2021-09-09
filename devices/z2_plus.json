@@ -2,6 +2,7 @@
   "codename": "z2_plus",
   "deviceName": "Z2 Plus",
   "brandName": "ZUK",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

@@ -2,6 +2,7 @@
   "codename": "hotdog",
   "deviceName": "Oneplus 7T Pro",
   "brandName": "Oneplus",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

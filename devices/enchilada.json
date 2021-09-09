@@ -2,6 +2,7 @@
   "codename": "enchilada",
   "deviceName": "OnePlus 6",
   "brandName": "Oneplus",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

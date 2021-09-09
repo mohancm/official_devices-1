@@ -2,6 +2,7 @@
   "codename": "rosy",
   "deviceName": "Redmi 5",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": null,
   "discontinued": false,
   "deviceChangelog": null,

@@ -2,6 +2,7 @@
   "codename": "whyred",
   "deviceName": "Redmi Note 5 Pro",
   "brandName": "Xiaomi",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,

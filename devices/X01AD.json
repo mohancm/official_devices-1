@@ -2,6 +2,7 @@
   "codename": "X01AD",
   "deviceName": "Zenfone Max M2",
   "brandName": "Asus",
+  "otaEnabled": true,
   "latestVersion": "v5.1.2",
   "discontinued": false,
   "deviceChangelog": null,

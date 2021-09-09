@@ -1,7 +1,8 @@
 {
 	"codename": "vince",
-	"deviceName": "Redmi Note 5/5 Plus",
+	"deviceName": "Redmi Note 5 / 5 Plus",
 	"brandName": "Xiaomi",
+	"otaEnabled": true,
 	"latestVersion": "v5.1.2",
 	"discontinued": true,
 	"deviceChangelog": null,

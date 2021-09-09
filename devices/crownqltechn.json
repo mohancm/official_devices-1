@@ -2,6 +2,7 @@
   "codename": "crownqltechn",
   "deviceName": "Samsung Galaxy N9",
   "brandName": "Samsung",
+  "otaEnabled": true,
   "latestVersion": "v5.1.3",
   "discontinued": false,
   "deviceChangelog": null,
